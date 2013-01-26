@@ -1,0 +1,23 @@
+# Ignore all logs, some of which contain sensitive information
+*.log
+emailarchive/logs/
+
+# Ignore identity management data, which contains OAuth creds
+common/datastore/identity_management/
+
+# Ignore Data Store, which contains GPG keys and Email Mailboxes
+emailarchive/datastore/
+
+# Ignore old static html code
+www/emailarchive/static-html/
+
+# Ignore OAuth constants file, which defined abstract class OAuthConstants, which contains consumer secret
+common/classes/model/OAuthConstants.php
+
+# Ignore all invisible files except .gitignore
+.*
+.*/
+!.gitignore
+
+# Ignore email alert script, which contains email passwords
+emailarchive/bin/email_alert.py
