@@ -1,4 +1,6 @@
 <?php
+// Copyright 2011. Eric Beach. All Rights Reserved.
+
 /*
 
 Raw GET variables from openid response

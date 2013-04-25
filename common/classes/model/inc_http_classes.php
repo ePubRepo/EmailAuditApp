@@ -1,4 +1,6 @@
 <?php
+// Copyright 2011. Eric Beach. All Rights Reserved.
+
 require_once('HTTPConstants.php');
 require_once('HTTPConnectionException.php');
 require_once('HTTPRequest.php');

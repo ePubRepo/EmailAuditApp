@@ -1,4 +1,5 @@
 <?php
+// Copyright 2011. Eric Beach. All Rights Reserved.
 
 require_once('../../emailarchive/inc_email_archive_bootstrap.php');
 

@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright 2011. Eric Beach. All Rights Reserved.
 
 #VALIDATE INPUT TEXT
 EXECUTING_SCRIPT_FILE="$1"

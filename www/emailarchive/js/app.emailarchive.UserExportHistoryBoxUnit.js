@@ -1,3 +1,5 @@
+// Copyright 2011. Eric Beach. All Rights Reserved.
+
 goog.provide('app.emailarchive.UserExportHistoryBoxUnit');
 
 goog.require('goog.ui.Component');

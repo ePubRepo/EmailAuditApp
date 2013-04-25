@@ -1,4 +1,5 @@
 <?php
+// Copyright 2011. Eric Beach. All Rights Reserved.
 
 require_once('/home/appsappsinfo/common/inc_global_constants.php');
 

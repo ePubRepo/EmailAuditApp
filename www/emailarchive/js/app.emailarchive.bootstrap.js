@@ -1,3 +1,5 @@
+// Copyright 2011. Eric Beach. All Rights Reserved.
+
 goog.provide('app.emailarchive.bootstrap');
 
 goog.require('app.emailarchive.UserSearchBoxUnit');

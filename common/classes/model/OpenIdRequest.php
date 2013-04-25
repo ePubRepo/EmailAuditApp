@@ -1,4 +1,5 @@
 <?php
+// Copyright 2011. Eric Beach. All Rights Reserved.
 
 /*
  * In keeping with the OpenId flow, these fucntions need to be performed in the following order in order to successfully use openid:

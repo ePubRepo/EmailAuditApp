@@ -1,4 +1,5 @@
 <?php
+// Copyright 2011. Eric Beach. All Rights Reserved.
 
 /**
  * The purpose of this class is to validate the HTTP GET response variables sent back from Google

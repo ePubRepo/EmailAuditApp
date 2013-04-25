@@ -1,4 +1,5 @@
 <?php 
+// Copyright 2011. Eric Beach. All Rights Reserved.
 
 //Note: The order of these inclides is important and changing them can cause serious consequences
 require_once(GlobalConstants::getAbsolutePathToAppAppsRootDirectory() . 'common/inc_global_exceptions.php');

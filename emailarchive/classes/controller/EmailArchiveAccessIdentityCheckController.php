@@ -1,4 +1,5 @@
 <?php
+// Copyright 2011. Eric Beach. All Rights Reserved.
 
 Logger::add_info_log_entry(__FILE__ . __LINE__ . ' Top of Class EmailArchiveAccessIdentityCheckController');
 

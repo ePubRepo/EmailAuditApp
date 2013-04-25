@@ -1,3 +1,5 @@
+// Copyright 2011. Eric Beach. All Rights Reserved.
+
 goog.provide('app.emailarchive.UserSearchBoxUnit');
 
 goog.require('goog.ui.AutoComplete.Basic');

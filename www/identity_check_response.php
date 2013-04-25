@@ -1,4 +1,6 @@
 <?php
+// Copyright 2011. Eric Beach. All Rights Reserved.
+
 require_once('../emailarchive/inc_email_archive_bootstrap.php');
 
 require_once(GlobalConstants::getAbsolutePathToAppAppsRootDirectory() . 'common/inc_global_classes.php');

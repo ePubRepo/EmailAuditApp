@@ -1,4 +1,5 @@
 <?php 
+// Copyright 2011. Eric Beach. All Rights Reserved.
 
 require_once('OAuthConstants.php');
 require_once('OAuthUtil.php');
